@@ -59,7 +59,7 @@ export default () => {
 
 ### Example Project
 
-Here is a [minimal but complete example](https://github.com/expo/google-fonts/tree/master/example).
+Here is a [minimal but complete example](./example).
 
 Each individual font family package README includes a complete example of using that font family.
 
@@ -76,11 +76,11 @@ Here are a few examples of the 3526 variants of 1064 fonts available:
 
 ||||
 |-|-|-|
-|[![Inter](./font-packages/inter/Inter_400Regular.ttf.png)](https://github.com/expo/google-fonts/tree/master/font-packages/inter#readme)|[![Manrope](./font-packages/manrope/Manrope_400Regular.ttf.png)](https://github.com/expo/google-fonts/tree/master/font-packages/manrope#readme)|[![Allan](./font-packages/allan/Allan_400Regular.ttf.png)](https://github.com/expo/google-fonts/tree/master/font-packages/allan#readme)|
-|[![Roboto](./font-packages/roboto/Roboto_400Regular.ttf.png)](https://github.com/expo/google-fonts/tree/master/font-packages/roboto#readme)|[![Lusitana](./font-packages/lusitana/Lusitana_400Regular.ttf.png)](https://github.com/expo/google-fonts/tree/master/font-packages/lusitana#readme)|[![Nunito](./font-packages/nunito/Nunito_400Regular.ttf.png)](https://github.com/expo/google-fonts/tree/master/font-packages/nunito#readme)|
-|[![Bangers](./font-packages/bangers/Bangers_400Regular.ttf.png)](https://github.com/expo/google-fonts/tree/master/font-packages/bangers#readme)|[![SourceSansPro](./font-packages/source-sans-pro/SourceSansPro_400Regular.ttf.png)](https://github.com/expo/google-fonts/tree/master/font-packages/source-sans-pro#readme)|[![RobotoCondensed](./font-packages/roboto-condensed/RobotoCondensed_400Regular.ttf.png)](https://github.com/expo/google-fonts/tree/master/font-packages/roboto-condensed#readme)|
-|[![PlayfairDisplay](./font-packages/playfair-display/PlayfairDisplay_400Regular.ttf.png)](https://github.com/expo/google-fonts/tree/master/font-packages/playfair-display#readme)|[![Ubuntu](./font-packages/ubuntu/Ubuntu_400Regular.ttf.png)](https://github.com/expo/google-fonts/tree/master/font-packages/ubuntu#readme)|[![Oswald](./font-packages/oswald/Oswald_400Regular.ttf.png)](https://github.com/expo/google-fonts/tree/master/font-packages/oswald#readme)|
-|[![BalsamiqSans](./font-packages/balsamiq-sans/BalsamiqSans_400Regular.ttf.png)](https://github.com/expo/google-fonts/tree/master/font-packages/balsamiq-sans#readme)|[![Jost](./font-packages/jost/Jost_400Regular.ttf.png)](https://github.com/expo/google-fonts/tree/master/font-packages/jost#readme)|[![Lato](./font-packages/lato/Lato_400Regular.ttf.png)](https://github.com/expo/google-fonts/tree/master/font-packages/lato#readme)|
+|[![Inter](./font-packages/inter/Inter_400Regular.ttf.png)](./font-packages/inter#readme)|[![Manrope](./font-packages/manrope/Manrope_400Regular.ttf.png)](./font-packages/manrope#readme)|[![Allan](./font-packages/allan/Allan_400Regular.ttf.png)](./font-packages/allan#readme)|
+|[![Roboto](./font-packages/roboto/Roboto_400Regular.ttf.png)](./font-packages/roboto#readme)|[![Lusitana](./font-packages/lusitana/Lusitana_400Regular.ttf.png)](./font-packages/lusitana#readme)|[![Nunito](./font-packages/nunito/Nunito_400Regular.ttf.png)](./font-packages/nunito#readme)|
+|[![Bangers](./font-packages/bangers/Bangers_400Regular.ttf.png)](./font-packages/bangers#readme)|[![SourceSansPro](./font-packages/source-sans-pro/SourceSansPro_400Regular.ttf.png)](./font-packages/source-sans-pro#readme)|[![RobotoCondensed](./font-packages/roboto-condensed/RobotoCondensed_400Regular.ttf.png)](./font-packages/roboto-condensed#readme)|
+|[![PlayfairDisplay](./font-packages/playfair-display/PlayfairDisplay_400Regular.ttf.png)](./font-packages/playfair-display#readme)|[![Ubuntu](./font-packages/ubuntu/Ubuntu_400Regular.ttf.png)](./font-packages/ubuntu#readme)|[![Oswald](./font-packages/oswald/Oswald_400Regular.ttf.png)](./font-packages/oswald#readme)|
+|[![BalsamiqSans](./font-packages/balsamiq-sans/BalsamiqSans_400Regular.ttf.png)](./font-packages/balsamiq-sans#readme)|[![Jost](./font-packages/jost/Jost_400Regular.ttf.png)](./font-packages/jost#readme)|[![Lato](./font-packages/lato/Lato_400Regular.ttf.png)](./font-packages/lato#readme)|
 
 
 There is also a [gallery in this repo](./GALLERY.md#readme) showing every font family and variant available.
@@ -88,7 +88,7 @@ There is also a [gallery in this repo](./GALLERY.md#readme) showing every font f
 ## 👩‍💻 @expo-google-fonts/dev
 
 
-If you are trying out lots of different fonts, you can try using the [`@expo-google-fonts/dev` package](https://github.com/expo/google-fonts/tree/master/font-packages/dev#readme).
+If you are trying out lots of different fonts, you can try using the [`@expo-google-fonts/dev` package](./font-packages/dev#readme).
 
 You can import *any* font style from any Expo Google Fonts package from it. It will load the fonts
 over the network at runtime instead of adding the asset as a file to your project, so it may take longer
@@ -114,7 +114,7 @@ A: You can use these fonts freely in your products & projects - print or digital
 ## 🤝 Contributing
 
 Contributions are very welcome! Note that everything under `font-packages` and also this README are generated.
-So, please make any changes you want to make to the [generator](https://github.com/expo/google-fonts/tree/master/packages/generator#readme) instead of the packages themselves.
+So, please make any changes you want to make to the [generator](./packages/generator#readme) instead of the packages themselves.
 
 ### Authors 
 
@@ -127,5 +127,5 @@ So, please make any changes you want to make to the [generator](https://github.c
 - [Using Custom Fonts Guide in the Expo docs](https://docs.expo.io/guides/using-custom-fonts/)
 - [`google_fonts` Flutter Package](https://pub.dev/packages/google_fonts)
 - [Gallery of all available styles in Expo Google Fonts](./GALLERY.md)
-- [Generation of these packages and this readme](https://github.com/expo/google-fonts/tree/master/packages/generator#readme)
+- [Generation of these packages and this readme](./packages/generator#readme)
 
