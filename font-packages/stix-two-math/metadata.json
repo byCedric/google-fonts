@@ -1,0 +1,12 @@
+{
+  "family": "STIX Two Math",
+  "variants": ["regular"],
+  "subsets": ["cyrillic", "cyrillic-ext", "greek", "latin", "latin-ext", "vietnamese"],
+  "version": "v1",
+  "lastModified": "2021-07-01",
+  "files": {
+    "regular": "http://fonts.gstatic.com/s/stixtwomath/v1/pONg1hwwL_6M9EkZySr_yteUi1rADEcF1pY.ttf"
+  },
+  "category": "serif",
+  "kind": "webfonts#webfont"
+}

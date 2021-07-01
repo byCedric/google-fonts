@@ -1,0 +1,10 @@
+{
+  "family": "Qahiri",
+  "variants": ["regular"],
+  "subsets": ["arabic", "latin"],
+  "version": "v1",
+  "lastModified": "2021-07-01",
+  "files": { "regular": "http://fonts.gstatic.com/s/qahiri/v1/tsssAp1RZy0C_hGuU3Chrnmupw.ttf" },
+  "category": "sans-serif",
+  "kind": "webfonts#webfont"
+}

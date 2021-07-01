@@ -6,7 +6,7 @@
 ![Expo Google Fonts](./gifs/title.gif)
 
 The `@expo-google-fonts` packages for Expo allow you to easily use 
-any of 1052 fonts (and their variants) from 
+any of 1064 fonts (and their variants) from 
 [fonts.google.com](https://fonts.google.com) in your Expo app.
 
 These packages and all these fonts work across web, iOS, and Android and 
@@ -71,7 +71,7 @@ You can browse all available Google Fonts on [fonts.google.com](https://fonts.go
 let you browse and search through all of the available fonts and show you the appropriate
 `import` statements you'll need so you can copy & paste into your own code.
 
-Here are a few examples of the 3483 variants of 1052 fonts available:
+Here are a few examples of the 3526 variants of 1064 fonts available:
 
 
 ||||

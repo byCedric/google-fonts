@@ -2,10 +2,10 @@
   "family": "Homenaje",
   "variants": ["regular"],
   "subsets": ["latin"],
-  "version": "v10",
-  "lastModified": "2020-07-23",
+  "version": "v11",
+  "lastModified": "2021-07-01",
   "files": {
-    "regular": "http://fonts.gstatic.com/s/homenaje/v10/FwZY7-Q-xVAi_l-6Ld6A4sijpFu_.ttf"
+    "regular": "http://fonts.gstatic.com/s/homenaje/v11/FwZY7-Q-xVAi_l-6Ld6A4sijpFu_.ttf"
   },
   "category": "sans-serif",
   "kind": "webfonts#webfont"

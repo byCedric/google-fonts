@@ -2,10 +2,10 @@
   "family": "Lexend Tera",
   "variants": ["regular"],
   "subsets": ["latin", "latin-ext", "vietnamese"],
-  "version": "v10",
-  "lastModified": "2021-03-24",
+  "version": "v14",
+  "lastModified": "2021-07-01",
   "files": {
-    "regular": "http://fonts.gstatic.com/s/lexendtera/v10/RrQUbo98_jt_IXnBPwCWtZhARYMgGtWA.ttf"
+    "regular": "http://fonts.gstatic.com/s/lexendtera/v14/RrQUbo98_jt_IXnBPwCWtZhARYMgGtWA.ttf"
   },
   "category": "sans-serif",
   "kind": "webfonts#webfont"

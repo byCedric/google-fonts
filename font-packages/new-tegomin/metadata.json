@@ -3,7 +3,7 @@
   "variants": ["regular"],
   "subsets": ["japanese", "latin", "latin-ext"],
   "version": "v5",
-  "lastModified": "2021-04-20",
+  "lastModified": "2021-07-01",
   "files": {
     "regular": "http://fonts.gstatic.com/s/newtegomin/v5/SLXMc1fV7Gd9USdBAfPlqfN0Q3ptkDMN.ttf"
   },

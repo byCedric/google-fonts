@@ -1,0 +1,14 @@
+{
+  "family": "Bona Nova",
+  "variants": ["regular", "italic", "700"],
+  "subsets": ["cyrillic", "cyrillic-ext", "greek", "hebrew", "latin", "latin-ext", "vietnamese"],
+  "version": "v1",
+  "lastModified": "2021-07-01",
+  "files": {
+    "700": "http://fonts.gstatic.com/s/bonanova/v1/B50IF7ZCpX7fcHfvIUBxN4dOFISeJY8GgQ.ttf",
+    "regular": "http://fonts.gstatic.com/s/bonanova/v1/B50NF7ZCpX7fcHfvIUBJi6hqHK-CLA.ttf",
+    "italic": "http://fonts.gstatic.com/s/bonanova/v1/B50LF7ZCpX7fcHfvIUB5iaJuPqqSLJYf.ttf"
+  },
+  "category": "serif",
+  "kind": "webfonts#webfont"
+}

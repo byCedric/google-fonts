@@ -2,10 +2,10 @@
   "family": "Oranienbaum",
   "variants": ["regular"],
   "subsets": ["cyrillic", "cyrillic-ext", "latin", "latin-ext"],
-  "version": "v9",
-  "lastModified": "2020-09-02",
+  "version": "v10",
+  "lastModified": "2021-07-01",
   "files": {
-    "regular": "http://fonts.gstatic.com/s/oranienbaum/v9/OZpHg_txtzZKMuXLIVrx-3zn7kz3dpHc.ttf"
+    "regular": "http://fonts.gstatic.com/s/oranienbaum/v10/OZpHg_txtzZKMuXLIVrx-3zn7kz3dpHc.ttf"
   },
   "category": "serif",
   "kind": "webfonts#webfont"

@@ -1,10 +1,10 @@
 {
   "family": "Qwigley",
   "variants": ["regular"],
-  "subsets": ["latin", "latin-ext"],
-  "version": "v10",
-  "lastModified": "2020-07-23",
-  "files": { "regular": "http://fonts.gstatic.com/s/qwigley/v10/1cXzaU3UGJb5tGoCuVxsi1mBmcE.ttf" },
+  "subsets": ["latin", "latin-ext", "vietnamese"],
+  "version": "v11",
+  "lastModified": "2021-07-01",
+  "files": { "regular": "http://fonts.gstatic.com/s/qwigley/v11/1cXzaU3UGJb5tGoCuVxsi1mBmcE.ttf" },
   "category": "handwriting",
   "kind": "webfonts#webfont"
 }

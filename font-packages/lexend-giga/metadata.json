@@ -2,10 +2,10 @@
   "family": "Lexend Giga",
   "variants": ["regular"],
   "subsets": ["latin", "latin-ext", "vietnamese"],
-  "version": "v10",
-  "lastModified": "2021-03-24",
+  "version": "v14",
+  "lastModified": "2021-07-01",
   "files": {
-    "regular": "http://fonts.gstatic.com/s/lexendgiga/v10/PlI5Fl67Mah5Y8yMHE7lkVxEt8CwfGaD.ttf"
+    "regular": "http://fonts.gstatic.com/s/lexendgiga/v14/PlI5Fl67Mah5Y8yMHE7lkVxEt8CwfGaD.ttf"
   },
   "category": "sans-serif",
   "kind": "webfonts#webfont"
