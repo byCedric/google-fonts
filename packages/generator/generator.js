@@ -82,7 +82,7 @@ async function main({ images, download } = { images: true, download: true }) {
   let fontDirectory = await getDirectory();
   console.log('done.');
 
-  if (download) {
+  if (download && false) {
     console.log('Downloading all fonts...');
     await downloadAllFonts(fontDirectory);
     console.log('done.');
@@ -93,7 +93,7 @@ async function main({ images, download } = { images: true, download: true }) {
     await generateImagesForFonts(fontDirectory);
     console.log('done.');
   }
-
+  
   console.log('Generating all font packages...');
   await generateAllFontPackages(fontDirectory);
   console.log('done.');
@@ -105,7 +105,7 @@ async function main({ images, download } = { images: true, download: true }) {
   console.log('Generating font directory package...');
   await generateFontDirectoryPackage(fontDirectory);
   console.log('done.');
-
+  return;
   console.log('Generating root README and GALLERY markdown files...');
   await generateRootReadme(fontDirectory);
   await generateGalleryFile(fontDirectory);
@@ -279,7 +279,13 @@ async function generatePng(outputFilepath, text, webfont, variantKey, pointsize,
     fontFilepath,
     '-pointsize',
     '' + pointsize,
+    '-bordercolor',
+    background,
     'label:' + text,
+    '-bordercolor',
+    background, 
+    '-border', 
+    '32x16',
     outputFilepath,
   ];
   try {
